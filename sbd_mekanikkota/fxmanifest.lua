@@ -4,10 +4,12 @@ game 'gta5'
 author 'SBD_STORE'
 
 this_is_a_map "yes"
+version '1.0.0'
 
 files {
     'stream/**/*.ytyp',
     'stream/**/*.ymap',
 }
+
 
 data_file 'DLC_ITYP_REQUEST' 'stream/*.ytyp'
